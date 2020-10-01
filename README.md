@@ -8,4 +8,4 @@ See [America's Tax Dollars at Work.](https://en.wikipedia.org/wiki/Counter_rocke
 ## CIWS: Bringing Air Defense to the Sea
 ![CIWSII](CIWSII.jpg "Test 2!")
 
-The CIWS is a naval adaptation of the C-RAM. It is mounted on ships such as aircraft carriers, and serves as the last line of defense. It can fire at anti-ship missiles, small hostile vessels, and even potentially low-flying aircraft. Small craft attackers may be able to outmaneuver the flghter planes launched from the aircraft carriers, but they're not getting past a 3000 rpm computer-aimed salvo of bullets fired at close range.
+The CIWS is a naval adaptation of the C-RAM. It is mounted on ships such as aircraft carriers, and serves as the last line of defense. It can fire at anti-ship missiles, small hostile vessels, and even potentially low-flying aircraft. Small craft attackers may be able to outmaneuver the fighter planes launched from the aircraft carriers, but they're not getting past a 3000 rpm computer-aimed salvo of bullets fired at close range.
